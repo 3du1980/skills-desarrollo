@@ -1,0 +1,10 @@
+{
+  "name": "equipo-desarrollo",
+  "description": "Equipo senior de 12 agentes para desarrollo de software a medida: seguro, escalable, accesible y con puertas de calidad en cada fase.",
+  "version": "1.1.0",
+  "author": {
+    "name": "3du1980"
+  },
+  "license": "MIT",
+  "keywords": ["desarrollo", "sdlc", "seguridad", "owasp", "tdd", "ux", "devops", "agentes"]
+}

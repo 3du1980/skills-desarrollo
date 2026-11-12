@@ -1,0 +1,20 @@
+{
+  "name": "skills-desarrollo",
+  "owner": {
+    "name": "3du1980"
+  },
+  "metadata": {
+    "description": "Skills y agentes para desarrollo de software a medida de alta calidad",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "equipo-desarrollo",
+      "source": "./plugins/equipo-desarrollo",
+      "description": "Equipo senior de 12 agentes (25 años de experiencia) que cubre todo el ciclo de vida del software: descubrimiento, arquitectura, datos, seguridad, UX/UI, backend, frontend, QA, rendimiento, DevOps, revisión y documentación.",
+      "version": "1.1.0",
+      "category": "development",
+      "keywords": ["desarrollo", "sdlc", "seguridad", "owasp", "tdd", "ux", "devops", "agentes"]
+    }
+  ]
+}
